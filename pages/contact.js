@@ -6,6 +6,7 @@ export default function contact() {
   return (
     <ContainerBlock>
       <Contact />
+      
     </ContainerBlock>
   );
 }
