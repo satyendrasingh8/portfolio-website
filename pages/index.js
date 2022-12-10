@@ -6,6 +6,9 @@ import LatestCode from "../components/LatestCode";
 import Hero from "../components/Hero";
 import getLatestRepos from "@lib/getLatestRepos";
 import userData from "@constants/data";
+import AboutMe from "@components/AboutMe";
+import Contact from "@components/Contact";
+import Experience from "@components/Experience";
 
 export default function Home({ repositories }) {
   return (
@@ -14,8 +17,11 @@ export default function Home({ repositories }) {
       description="This is a template built specifically for my blog - Creating a developer portfolio that gets you a job."
     >
       <Hero />
-      <FavouriteProjects />
-      <LatestCode repositories={repositories} />
+      <AboutMe/>
+      <Experience/>
+      <Contact/>
+      {/* <FavouriteProjects /> */}
+      {/* <LatestCode repositories={repositories} /> */}
     </ContainerBlock>
   );
 }

@@ -31,19 +31,19 @@ const userData = {
       title: "Flutter news application",
       link: "https://www.linkedin.com/posts/satyendrasingh8_socialmedia-app-flutter-activity-6753029989869907968-4WMN",
       imgUrl: "/covidrescue.png",
-    }, {
+    },
+    {
       title: "Flipkart Quiz Application",
       link: "https://webserv4u.com/",
       imgUrl: "/feedmeback.png",
     },
-    
+
     {
       title: "3D HideAndSeek using reactVR and react360",
       link: "https://drive.google.com/file/d/1E2Amqfh3NyUIM1yMjC41PtYnSDl5csta/view?usp=sharing",
       imgUrl: "/algochurn.png",
     },
-    
-   
+
     {
       title: "Blog Application",
       link: "https://blog.webserv4u.com/2021/03/nit-trichy.html",
@@ -56,62 +56,55 @@ const userData = {
     description: [
       `I've been developing full-stack application since I was 16 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Node.js, Express, MongoDB, MySQL, Bootstrap, Tailwind, React Native, Flutter, C, C++, Java, Python, Rust, PHP, Assembly, blogger, Youtuber, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `But now, I'm a legend. I've been coding in React, Node.js, Express, MongoDB, MySQL/Postgres, Bootstrap, Antd,Tailwind, Sequelize.js, Adonisjs, Web3.js,Solidity ,Ethereum, Polygon,C, C++, Java, Python, Assembly, blogger, Youtuber etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
     ],
-    currentProject: "Flipkart Quiz Application",
+    currentProject: ".......",
     currentProjectUrl: "https://webserv4u.com/",
   },
   experience: [
     {
-      title: "Software Developer",
+      title: "Full Stack Developer",
       company: "ForceBolt Pvt. Ltd.",
       year: "2022",
       companyLink: "https://www.forcebolt.com/",
-      desc: "Full Stack Development Services & Solution for Frontend Development UI/UX Design & Development Backend Development HTML & CSS Development CMS Development Server and Hosting Integration",
-    },
-    {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
-      year: "2021",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Full Stack Development Services & Solution for Frontend Development UI/UX Design & Development Backend Development HTML & CSS Development CMS Development Server and Hosting Integration",
-    },
-    {
-      title: "Founder and Developer",
-      company: "Algochurn",
-      year: "2021",
-      companyLink: "https://algochurn.com",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
+      desc: "Contributed as a team member in frontend(HTML5,Css,Javascript,React .js etc) + backend(Node Js, Express, MongoDB,Sequelize.js,Adonis.js,Postgres etc) ",
     },
     {
       title: "Internship",
-      company: "Intel Corporation",
-      year: "2019",
-      companyLink: "https://intel.com",
-      desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
+      company: "UcPro",
+      year: "2020",
+      companyLink: "https://ucpro.in/",
+      desc: "Worked as a team member in web development including frontend, backend, and database management systems.",
     },
     {
       title: "Graduation",
-      company: "UPES, Dehradun.",
-      year: "2019",
-      companyLink: "https://upes.co.in",
-      desc: "Major in Computer Science and Engineering with a CGPA of 7.0. Nobody asks this but it's okay.",
+      company: "JKIAPT(University of Allahabad)",
+      year: "2018-22",
+      companyLink: "https://www.jkinstitute.ac.in/",
+      desc: "Completed Bachelor of Technology from J.K. institute of applied Physics and technology, University of Allahabad, Prayagraj with a cumulative grade point average of 8.6",
+    },
+    {
+      title: "Intermediate(10+2)",
+      company: "Maa Rajraani Inter College Prayagraj, Uttar Pradesh",
+      year: "2017",
+      companyLink: "/",
+      desc: "I had studied in one of the best colleges with the stream I wanted and scored 83 percentage in boards but I'm happy about it. ",
     },
     {
       title: "High School",
-      company: "St. Vishna RR Nector school Mundera Allahabad, Uttar Pradesh",
+      company: "St. Vishna RR Nector school Mundera Prayagraj, Uttar Pradesh",
       year: "2015",
       companyLink: "https://www.facebook.com/St.vishna123/",
-      desc: "Subjects being PCM - I barely survived with 92% marks aggregate. Flex fridays, fellas.",
+      desc: "Subjects being PCM - I barely survived with 92% marks aggregate.Nobody asks this but it's okay.",
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1Cy0c_m2AGhbG3Vw_p_zWCUKJOO1OP9zu/view?usp=sharing",
+    "https://drive.google.com/file/d/1GQyy9dgv3q2zECkCuYOl8L9qpQ-RUjjr/view?usp=sharing",
   socialLinks: {
-    instagram: "https://www.instagram.com/satyendrasingh_89/",
-    twitter: "https://twitter.com/satyend51668580",
     linkedin: "https://www.linkedin.com/in/satyendrasingh8/",
     github: "https://github.com/satyendrasingh8",
+    twitter: "https://twitter.com/satyend51668580",
+    instagram: "https://www.instagram.com/satyendrasingh_89/",
     facebook: "https://facebook.com/",
   },
 };
