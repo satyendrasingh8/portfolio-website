@@ -18,9 +18,9 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
-      title: "SnackDown 2021 by CodeChef",
-      link: "https://www.codechef.com/certificates/public/11996a3",
-      imgUrl: "/placeholdertech.png",
+      title: "chat application(ethereum)",
+      link: "/projects",
+      imgUrl: "/chatapp.png",
     },
     {
       title: "Sports Bike",
@@ -44,11 +44,6 @@ const userData = {
       imgUrl: "/algochurn.png",
     },
 
-    {
-      title: "Blog Application",
-      link: "https://blog.webserv4u.com/2021/03/nit-trichy.html",
-      imgUrl: "/devmedium.png",
-    },
   ],
   about: {
     title:
