@@ -32,7 +32,7 @@ export default function Navbar() {
           </Link>
         </div>
 
-        <div className="space-x-8 hidden md:block">
+        <div className="space-x-3 hidden md:block">
           <Link href="/about">
             <a
               className={`text-base  ${
@@ -139,7 +139,7 @@ export default function Navbar() {
           </Link>
         </div>
 
-        <div className="space-x-4 flex flex-row items-center">
+        <div className="space-x-8 flex flex-row items-center">
           <a
             href={userData.socialLinks.instagram}
             className="text-base font-normal text-gray-600 dark:text-gray-300"
@@ -219,7 +219,7 @@ export default function Navbar() {
           </button>
         </div>
       </div>
-      <div className="space-x-8 block md:hidden mt-4">
+      <div className="space-x-6 block md:hidden mt-4">
         <Link href="/about">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             About
