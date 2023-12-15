@@ -59,10 +59,10 @@ const userData = {
   experience: [
     {
       title: "Full Stack Developer",
-      company: "ForceBolt Pvt. Ltd.",
+      company: "Cloud Analogy Pvt. Ltd.",
       year: "2022",
-      companyLink: "https://www.forcebolt.com/",
-      desc: "Contributed as a team member in frontend(HTML5,Css,Javascript,React .js etc) + backend(Node Js, Express, MongoDB,Sequelize.js,Adonis.js,Postgres etc) ",
+      companyLink: "https://www.cloudanalogy.com/",
+      desc: "Contributed as a team member in frontend(HTML5,Css,Javascript,React.js etc) + backend(Node Js, Express, MongoDB,Sequelize.js,Adonis.js,Postgres etc) ",
     },
     {
       title: "Internship",
@@ -94,7 +94,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1GQyy9dgv3q2zECkCuYOl8L9qpQ-RUjjr/view?usp=sharing",
+    "https://drive.google.com/file/d/1rvMyUvb03eUsIrjEcXn89ldfmptwRJs5/view?usp=sharing",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/satyendrasingh8/",
     github: "https://github.com/satyendrasingh8",
