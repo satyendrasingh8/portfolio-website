@@ -150,72 +150,72 @@ export default function AboutMe() {
             <div className="flex flex-row flex-wrap mt-8">
             <img
                 src="cplus.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
             
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
                           <img
                 src="antd.svg"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="solidity.jpg"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
                 <img
                 src="blockchain.jpg"
-                className="h-20 w-30 mx-4 my-4"
+                className="h-20 w-30 mx-2 md:mx-4 my-4"
               />
               <img
                 src="node.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="linux.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
                <img
                 src="postgres.png"
-                className="h-20 w-20 mx-4 my-4"
+                className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
                <img
                 src="adonis.png"
-                className="h-20 w-30 mx-4 my-4"
+                className="h-16 w-16 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
               <img
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-                className="h-20 w-40 mx-4 my-4"
+                className="h-16 w-16 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
               />
             </div>
           </div>
