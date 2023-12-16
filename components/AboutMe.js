@@ -147,7 +147,7 @@ export default function AboutMe() {
             <h1 className="bg-red-500 text-3xl rounded-md px-2 py-1 inline-block font-bold text-gray-50">
               Tech Stack
             </h1>
-            <div className="flex flex-row flex-wrap mt-8">
+            <div className="flex flex-row justify-center flex-wrap mt-8">
             <img
                 src="cplus.png"
                 className="h-20 w-20 md:h-20 md:w-20 mx-2 md:mx-4 my-4"
