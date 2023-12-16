@@ -30,7 +30,7 @@ const ProjectCard = ({ title, link, imgUrl, number }) => {
   return (
     <a href={link} className="w-full block shadow-2xl">
       <div className="relative overflow-hidden">
-        <div className="h-72 object-cover">
+        <div className="h-72 w-full object-cover">
           <img
             src={imgUrl}
             alt="portfolio"

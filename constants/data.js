@@ -8,6 +8,21 @@ const userData = {
   address: "Chitrakoot, Uttar Pradesh, India.",
   projects: [
     {
+      title: "Digital Learning",
+      link: "",
+      imgUrl: "/education.png",
+    },
+    {
+      title: "E-Vehicle",
+      link: "",
+      imgUrl: "/vehicle.jpg",
+    },
+    {
+      title: "Digital-Cred",
+      link: "",
+      imgUrl: "/finance.png",
+    },
+    {
       title: "Netflix",
       link: "https://netflix-clone-5a6dc.web.app/",
       imgUrl: "/playground.png",
