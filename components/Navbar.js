@@ -416,7 +416,7 @@ export default function Navbar() {
 // Navigation links data
 const navLinks = [
   { path: "/about", label: "About" },
-  { path: "/projects", label: "Projects" },
+  // { path: "/projects", label: "Projects" },
   { path: "/experience", label: "Experience" },
   { path: "/contact", label: "Contact" },
 ];
